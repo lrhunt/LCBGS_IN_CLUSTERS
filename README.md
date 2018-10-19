@@ -1,0 +1,1 @@
+This is a repository used to calculate the k-correction for one of the MOLINO CLASH clusters. This makes use of the kcorrect code from michael blanton and the python wrapper found on github by nirin-a
